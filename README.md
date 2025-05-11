@@ -12,3 +12,6 @@ Make sure you have the following installed:
 
 - Python 3.x
 - The following Python libraries (see `requirements.txt`)
+
+## Disclaimer
+Please do not use this app to pirate as it is wrong and unethical. i also do not claim ownership of anything other than the code.
