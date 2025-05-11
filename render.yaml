@@ -1,8 +1,0 @@
-services:
-  - type: web
-    name: gofile-downloader
-    runtime: python
-    plan: free
-    buildCommand: pip install -r requirements.txt
-    startCommand: gunicorn app:app
-    autoDeploy: true
